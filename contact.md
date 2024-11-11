@@ -19,5 +19,5 @@ Use the form below to send me a message:
   <input type="hidden" name="_next" value="/success" />
   <input class="hidden" type="text" name="_gotcha" />
   <input type="hidden" name="_format" value="plain" />
-  <button type="submit"><i class="fa fa-paper-plane"></i> Submit</button>
+  <button type="submit">Submit</button>
 </form>
