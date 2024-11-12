@@ -188,4 +188,4 @@ Specializations include IT security, systems engineering and administration of p
 
 ## Education
 
-- B.A. UC Berkeley
+* B.A. UC Berkeley
