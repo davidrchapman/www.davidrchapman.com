@@ -6,9 +6,12 @@ minima:
   skin: auto
 
   header_pages:
-  - about.md
-  - work.md
-  - resume.md
-  - contact.md
+    - about.md
+    - work.md
+    - resume.md
+    - contact.md
 
-  
+  social_links:
+    - { platform: linkedin,  user_url: "http://www.linkedin.com/in/davidrchapman" }
+    - { platform: facebook,  user_url: "http://www.facebook.com/davidrchapman" }
+    - { platform: github,  user_url: "http://github.com/davidrchapman" }
