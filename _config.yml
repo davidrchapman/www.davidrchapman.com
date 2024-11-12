@@ -1,6 +1,10 @@
 title: David R. Chapman  
-description: Copyright - 2024
+description: Copyright &copy; 2024
 theme: minima
 
 minima:
-  skin: dark
+  header_pages:
+    - about.md
+    - work.md
+    - resume.md
+    - contact.md
