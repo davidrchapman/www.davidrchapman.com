@@ -4,7 +4,7 @@ title: About
 
 ![David R. Chapman](/images/DavidRChapman.jpg)
 
-David R. Chapman is an IT consultant in Northern California with more than 15 years of experience in information technology.
+David R. Chapman is an IT consultant in Northern California with over 20 years of experience in information technology.
 
 David's specializations include IT security, systems engineering and administration of Microsoft Windows and Linux server, Microsoft Active Directory, Microsoft Exchange, and Microsoft-UNIX integration.
 
