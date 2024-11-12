@@ -1,3 +1,5 @@
 title: David R. Chapman
-author: [David R. Chapman](https://www.davidrchapman.com)
+author:
+  name: David R. Chapman
+  email: mailto@davidrchapman.com
 theme: minima
