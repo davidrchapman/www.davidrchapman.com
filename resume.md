@@ -2,7 +2,6 @@
 title: Resume
 ---
 
-* [MD Resume](/files/resume/davidrchapman-resume.md)
 * [HTML Resume](/files/resume/davidrchapman-resume.html)
 * [PDF Resume](/files/resume/davidrchapman-resume.pdf)
 * [Open Doc Resume](/files/resume/davidrchapman-resume.odt)
